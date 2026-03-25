@@ -1,12 +1,12 @@
 ## Hi there, I am Mitchel Levitt Pinsky
 
-![PYHTON]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![FastAPI]https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-![SQLAlchemy]https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white
-![PostgreSQL]https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-![MongoDB]https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-![Redis]https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-![AWS]https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white
+https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900
 
 **ABOUT ME**
 I am an aspiring **DevOps Engineer** focusing on building resilient, data-driven infrastructure and automating the bridge between code and deployment.
