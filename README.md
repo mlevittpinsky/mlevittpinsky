@@ -6,13 +6,14 @@ I am a Software Developer in training with a focus on DevOps and AI Infrastructu
 I approach software with a 'Data-First' mindset, prioritizing system stability and automated workflows. My goal is to master Cloud Infrastructure (IaC) and CI/CD pipelines to build environments where data and code interact seamlessly
 
 **My Builds**
+
 My builds focus on:
   * Cloud Deployment with AWS
   * Containerization with Docker
   * Automation with Jenkins
   * CI/CD Pipeline Development
 
-##**Currently Learning**
+**Currently Learning**
   *Terraform
   *Kubernetes
   *LLMOps and AI Service Enablement 
